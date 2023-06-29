@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Admin-Panal-In-React/static/css/main.8db80fba.css",
+    "main.js": "/Admin-Panal-In-React/static/js/main.83a4c0fa.js",
+    "static/media/widget.jpg": "/Admin-Panal-In-React/static/media/widget.0e59a44bfe2ea381fbd8.jpg",
+    "static/media/avata2.jpg": "/Admin-Panal-In-React/static/media/avata2.36cc5cc6d45daf893041.jpg",
+    "index.html": "/Admin-Panal-In-React/index.html",
+    "main.8db80fba.css.map": "/Admin-Panal-In-React/static/css/main.8db80fba.css.map",
+    "main.83a4c0fa.js.map": "/Admin-Panal-In-React/static/js/main.83a4c0fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8db80fba.css",
+    "static/js/main.83a4c0fa.js"
+  ]
+}
